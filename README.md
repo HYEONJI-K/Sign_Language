@@ -6,4 +6,4 @@
 
 * voice.py
 
-음성 인식 후, 
+음성 인식 기능 Speech Recognition
